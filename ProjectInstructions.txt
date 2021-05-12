@@ -1,0 +1,2 @@
+This is a maven project with testNG framework 
+Please run testng.xml for execution.
